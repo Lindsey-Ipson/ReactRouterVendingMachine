@@ -1,0 +1,17 @@
+.NavBar {
+  background-color: #333;
+  padding: 10px;
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+}
+
+.NavBar a {
+  color: white; 
+  text-decoration: none; 
+  font-size: 16px; 
+}
+
+.NavBar a:hover {
+  text-decoration: underline; 
+}
